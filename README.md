@@ -1,7 +1,13 @@
-## Use OpenAI and ChatGPT to Build Real-World Q&A Bot
+## Q&A Bot using OpenAI and ChatGPT
 
-Build An AI that can answer questions about things happening in the news through text embeddings
 
+## Environment Variables
+
+To set up the configuration for the Q&A Bot, define the following environment variables:
+
+- `OPENAI_API_KEY`: Your OpenAI API key
+- `SLACK_TOKEN`: Your Slack token
+- `SLACK_SIGNING_SECRET`: Your Slack signing secret
 
 
 ### Run instruction
